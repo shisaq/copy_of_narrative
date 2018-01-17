@@ -24,7 +24,7 @@
       "login_form_submit": "入力する",
       "signup_form_email_label": "メール",
       "signup_form_success": "ストアがオープンする直前にメールでお知らせします！",
-      "admin_link_html": "あなたはストアのオーナーですか？<a href=\"/admin\" class=\"text-link\">こちらからログインする</a>",
+      "admin_link_html": "あなたはストアのオーナーですか？<a href=\"\/admin\" class=\"text-link\">こちらからログインする<\/a>",
       "password_link": "パスワードを入力してください",
       "powered_by_shopify_html": "このお店は{{ shopify }}を使用しています"
     },
@@ -46,8 +46,8 @@
       "placeholder": "検索する",
       "submit": "もう一度検索する",
       "results_count_html": {
-        "one": "<strong>{{ terms }}</strong>の検索結果{{ count }}件",
-        "other": "<strong>{{ terms }}</strong>の検索結果{{ count }}件"
+        "one": "<strong>{{ terms }}<\/strong>の検索結果{{ count }}件",
+        "other": "<strong>{{ terms }}<\/strong>の検索結果{{ count }}件"
       }
     },
     "newsletter_form": {
@@ -94,7 +94,7 @@
       "update": "カートをアップデートする",
       "checkout": "チェックアウト",
       "empty": "カート内に商品がありません。",
-      "continue_browsing_html": "<a href=\"/collections/all\" class=\"{{ classes }}\">買い物を続ける</a>",
+      "continue_browsing_html": "<a href=\"\/collections\/all\" class=\"{{ classes }}\">買い物を続ける<\/a>",
       "close_cart": "カートを閉じる",
       "savings": "節約",
       "item_quantity": "商品個数",
@@ -290,8 +290,8 @@
     "map": {
       "address_error": "住所を調べる際にエラーが発生しました",
       "address_no_results": "その住所は見つかりませんでした",
-      "address_query_limit_html": "Google APIの使用量の制限を超えました。<a href=\"https://developers.google.com/maps/premium/usage-limits\">プレミアムプラン</a>へのアップグレードをご検討ください。",
-      "auth_error_html": "あなたのGoogle Mapsのアカウント認証で問題が発生しました。<a href=\"https://developers.google.com/maps/documentation/javascript/get-api-key\">JavaScript API</a>と<a href=\"https://developers.google.com/maps/documentation/geocoding/get-api-key\">ジオコーディング API</a>を作成し、アプリの許可を有効にしてください。"
+      "address_query_limit_html": "Google APIの使用量の制限を超えました。<a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">プレミアムプラン<\/a>へのアップグレードをご検討ください。",
+      "auth_error_html": "あなたのGoogle Mapsのアカウント認証で問題が発生しました。<a href=\"https:\/\/developers.google.com\/maps\/documentation\/javascript\/get-api-key\">JavaScript API<\/a>と<a href=\"https:\/\/developers.google.com\/maps\/documentation\/geocoding\/get-api-key\">ジオコーディング API<\/a>を作成し、アプリの許可を有効にしてください。"
     },
     "product_template": {
       "open_image_slideshow": "スライドショーの画像を開く",

@@ -24,7 +24,7 @@
       "login_form_submit": "Betreten",
       "signup_form_email_label": "E-Mail",
       "signup_form_success": "Wir senden Ihnen eine E-Mail, kurz bevor wir eröffnen!",
-      "admin_link_html": "Sind Sie der Geschäftsinhaber? <a href=\"/admin\" class=\"text-link\">Melden Sie sich hier an</a>",
+      "admin_link_html": "Sind Sie der Geschäftsinhaber? <a href=\"\/admin\" class=\"text-link\">Melden Sie sich hier an<\/a>",
       "password_link": "Mit Passwort betreten",
       "powered_by_shopify_html": "Dieser Shop wird mit Hilfe von {{ shopify }} betrieben werden"
     },
@@ -46,8 +46,8 @@
       "placeholder": "Suchen",
       "submit": "Suchen",
       "results_count_html": {
-        "one": "{{ count }} ergebnis für <strong>{{ terms }}</strong>",
-        "other": "{{ count }} ergebnisse für <strong>{{ terms }}</strong>"
+        "one": "{{ count }} ergebnis für <strong>{{ terms }}<\/strong>",
+        "other": "{{ count }} ergebnisse für <strong>{{ terms }}<\/strong>"
       }
     },
     "newsletter_form": {
@@ -94,7 +94,7 @@
       "update": "Einkaufswagen aktualisieren",
       "checkout": "Zur Kasse",
       "empty": "Ihr Einkaufswagen ist im Moment leer.",
-      "continue_browsing_html": "<a href=\"/collections/all\" class=\"{{ classes }}\">Mit der Suche hier fortfahren</a>",
+      "continue_browsing_html": "<a href=\"\/collections\/all\" class=\"{{ classes }}\">Mit der Suche hier fortfahren<\/a>",
       "close_cart": "Einkaufswagen schließen",
       "savings": "Sie sparen ",
       "item_quantity": "Artikelanzahl",
@@ -290,7 +290,7 @@
     "map": {
       "address_error": "Kann die Adresse nicht finden",
       "address_no_results": "Keine Ergebnisse für diese Adresse",
-      "address_query_limit_html": "Sie haben die Google- API-Nutzungsgrenze überschritten. Betrachten wir zu einem <a href=\"https://developers.google.com/maps/premium/usage-limits\">Premium-Paket</a> zu aktualisieren.",
+      "address_query_limit_html": "Sie haben die Google- API-Nutzungsgrenze überschritten. Betrachten wir zu einem <a href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\">Premium-Paket<\/a> zu aktualisieren.",
       "auth_error_html": "Es gab ein Problem bei Google Maps API Konto zu authentifizieren."
     },
     "product_template": {
